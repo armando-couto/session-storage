@@ -1,0 +1,10 @@
+{
+  "name": "session-storage",
+  "authors": [
+    "Armando Couto <coutoarmando@gmail.com>"
+  ],
+  "description": "Plugin que auxilia em sessions.",
+  "main": "session-storage",
+  "license": "MIT",
+  "homepage": "www.armandocouto.com.br"
+}
