@@ -5,4 +5,4 @@
 Plugin que auxilia em sessions.
 
 # Install
-bower session-storage
+bower install --save session-storage
